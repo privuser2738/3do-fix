@@ -7,6 +7,7 @@ C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulat
 C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.AssemblyInfoInputs.cache
 C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.AssemblyInfo.cs
 C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.csproj.CoreCompileInputs.cache
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.sourcelink.json
 C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.dll
 C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\refint\ThreeDOEmulator.dll
 C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.pdb

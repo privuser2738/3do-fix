@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreeDOEmulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+720b16d9fd9cac3bc56bb17304fb4e1266f9a394")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreeDOEmulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreeDOEmulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

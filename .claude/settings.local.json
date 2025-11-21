@@ -24,7 +24,11 @@
       "Bash(find:*)",
       "Bash(./rebuild.bat)",
       "Bash(./3DOLauncher.exe 4)",
-      "Bash(start \"\" \"4DO.exe\")"
+      "Bash(start \"\" \"4DO.exe\")",
+      "Bash(./ThreeDOEmulator.exe)",
+      "Bash(./chdman.exe extractcd:*)",
+      "Bash(./ThreeDOEmulator.exe \"C:\\Users\\rob\\Games\\3DO\\SSF2Turbo.cue\")",
+      "Bash(start \"\" \"CDImageConverter.exe\")"
     ],
     "deny": [],
     "ask": []

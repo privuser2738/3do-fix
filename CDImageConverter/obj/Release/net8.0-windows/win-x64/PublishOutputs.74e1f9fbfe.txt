@@ -1,0 +1,5 @@
+C:\Users\rob\source\002\3do-fix\CDImageConverter-Release\CDImageConverter.exe
+C:\Users\rob\source\002\3do-fix\CDImageConverter-Release\CDImageConverter.dll
+C:\Users\rob\source\002\3do-fix\CDImageConverter-Release\CDImageConverter.deps.json
+C:\Users\rob\source\002\3do-fix\CDImageConverter-Release\CDImageConverter.runtimeconfig.json
+C:\Users\rob\source\002\3do-fix\CDImageConverter-Release\CDImageConverter.pdb

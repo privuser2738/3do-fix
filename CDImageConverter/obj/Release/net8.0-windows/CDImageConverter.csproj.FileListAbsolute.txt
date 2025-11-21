@@ -1,0 +1,15 @@
+C:\Users\rob\source\002\3do-fix\CDImageConverter\bin\Release\net8.0-windows\CDImageConverter.exe
+C:\Users\rob\source\002\3do-fix\CDImageConverter\bin\Release\net8.0-windows\CDImageConverter.deps.json
+C:\Users\rob\source\002\3do-fix\CDImageConverter\bin\Release\net8.0-windows\CDImageConverter.runtimeconfig.json
+C:\Users\rob\source\002\3do-fix\CDImageConverter\bin\Release\net8.0-windows\CDImageConverter.dll
+C:\Users\rob\source\002\3do-fix\CDImageConverter\bin\Release\net8.0-windows\CDImageConverter.pdb
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.AssemblyInfoInputs.cache
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.AssemblyInfo.cs
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.csproj.CoreCompileInputs.cache
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.sourcelink.json
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.dll
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\refint\CDImageConverter.dll
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.pdb
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\CDImageConverter.genruntimeconfig.cache
+C:\Users\rob\source\002\3do-fix\CDImageConverter\obj\Release\net8.0-windows\ref\CDImageConverter.dll

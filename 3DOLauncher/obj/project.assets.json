@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\users\\rob\\source\\002\\3do-fix\\3DOLauncher\\3DOLauncher.csproj",
+      "projectUniqueName": "C:\\Users\\rob\\source\\002\\3do-fix\\3DOLauncher\\3DOLauncher.csproj",
       "projectName": "3DOLauncher",
-      "projectPath": "C:\\users\\rob\\source\\002\\3do-fix\\3DOLauncher\\3DOLauncher.csproj",
+      "projectPath": "C:\\Users\\rob\\source\\002\\3do-fix\\3DOLauncher\\3DOLauncher.csproj",
       "packagesPath": "C:\\Users\\rob\\.nuget\\packages\\",
-      "outputPath": "C:\\users\\rob\\source\\002\\3do-fix\\3DOLauncher\\obj\\",
+      "outputPath": "C:\\Users\\rob\\source\\002\\3do-fix\\3DOLauncher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rob\\AppData\\Roaming\\NuGet\\NuGet.Config"
