@@ -1,0 +1,14 @@
+C:\users\rob\source\002\3do-fix\3DOLauncher\bin\Debug\net8.0\3DOLauncher.exe
+C:\users\rob\source\002\3do-fix\3DOLauncher\bin\Debug\net8.0\3DOLauncher.deps.json
+C:\users\rob\source\002\3do-fix\3DOLauncher\bin\Debug\net8.0\3DOLauncher.runtimeconfig.json
+C:\users\rob\source\002\3do-fix\3DOLauncher\bin\Debug\net8.0\3DOLauncher.dll
+C:\users\rob\source\002\3do-fix\3DOLauncher\bin\Debug\net8.0\3DOLauncher.pdb
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\3DOLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\3DOLauncher.AssemblyInfoInputs.cache
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\3DOLauncher.AssemblyInfo.cs
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\3DOLauncher.csproj.CoreCompileInputs.cache
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\3DOLauncher.dll
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\refint\3DOLauncher.dll
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\3DOLauncher.pdb
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\3DOLauncher.genruntimeconfig.cache
+C:\users\rob\source\002\3do-fix\3DOLauncher\obj\Debug\net8.0\ref\3DOLauncher.dll

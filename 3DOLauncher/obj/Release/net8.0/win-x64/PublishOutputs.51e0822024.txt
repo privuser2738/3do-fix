@@ -1,0 +1,5 @@
+C:\Users\rob\source\002\3do-fix\3DOLauncher-Release\3DOLauncher.exe
+C:\Users\rob\source\002\3do-fix\3DOLauncher-Release\3DOLauncher.dll
+C:\Users\rob\source\002\3do-fix\3DOLauncher-Release\3DOLauncher.deps.json
+C:\Users\rob\source\002\3do-fix\3DOLauncher-Release\3DOLauncher.runtimeconfig.json
+C:\Users\rob\source\002\3do-fix\3DOLauncher-Release\3DOLauncher.pdb

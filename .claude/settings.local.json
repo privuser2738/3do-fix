@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./mame.exe:*)",
+      "Bash(./4DO.exe:*)",
+      "Bash(start \"\" \"4DO\\4DO.exe\" \"Super Street Fighter II Turbo (USA).chd\")",
+      "Bash(tasklist:*)",
+      "Bash(taskkill:*)",
+      "Bash(start \"\" \"FreeDo\\FreeDO.exe\")",
+      "Bash(./FreeDO.exe /?)",
+      "Bash(dumpbin:*)",
+      "Bash(where:*)",
+      "Bash(dotnet --version:*)",
+      "Bash(csc:*)",
+      "Bash(./ExamineDll.exe)",
+      "Bash(dotnet new:*)",
+      "Bash(dotnet run)",
+      "Bash(cat:*)",
+      "Bash(dotnet build:*)",
+      "Bash(dotnet run:*)",
+      "Bash(dotnet publish:*)",
+      "Bash(./3DOLauncher.exe)",
+      "Bash(./chdman.exe info:*)",
+      "Bash(find:*)",
+      "Bash(./rebuild.bat)",
+      "Bash(./3DOLauncher.exe 4)",
+      "Bash(start \"\" \"4DO.exe\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

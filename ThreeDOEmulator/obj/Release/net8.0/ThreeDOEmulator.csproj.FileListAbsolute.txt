@@ -1,0 +1,14 @@
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\bin\Release\net8.0\ThreeDOEmulator.exe
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\bin\Release\net8.0\ThreeDOEmulator.deps.json
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\bin\Release\net8.0\ThreeDOEmulator.runtimeconfig.json
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\bin\Release\net8.0\ThreeDOEmulator.dll
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\bin\Release\net8.0\ThreeDOEmulator.pdb
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.AssemblyInfoInputs.cache
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.AssemblyInfo.cs
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.csproj.CoreCompileInputs.cache
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.dll
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\refint\ThreeDOEmulator.dll
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.pdb
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ThreeDOEmulator.genruntimeconfig.cache
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator\obj\Release\net8.0\ref\ThreeDOEmulator.dll

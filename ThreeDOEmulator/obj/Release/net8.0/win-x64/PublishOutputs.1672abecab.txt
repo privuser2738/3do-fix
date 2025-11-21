@@ -1,0 +1,5 @@
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator-Release\ThreeDOEmulator.exe
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator-Release\ThreeDOEmulator.dll
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator-Release\ThreeDOEmulator.deps.json
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator-Release\ThreeDOEmulator.runtimeconfig.json
+C:\Users\rob\source\002\3do-fix\ThreeDOEmulator-Release\ThreeDOEmulator.pdb

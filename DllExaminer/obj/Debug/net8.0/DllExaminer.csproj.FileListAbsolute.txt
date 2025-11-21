@@ -1,0 +1,14 @@
+C:\users\rob\source\002\3do-fix\DllExaminer\bin\Debug\net8.0\DllExaminer.exe
+C:\users\rob\source\002\3do-fix\DllExaminer\bin\Debug\net8.0\DllExaminer.deps.json
+C:\users\rob\source\002\3do-fix\DllExaminer\bin\Debug\net8.0\DllExaminer.runtimeconfig.json
+C:\users\rob\source\002\3do-fix\DllExaminer\bin\Debug\net8.0\DllExaminer.dll
+C:\users\rob\source\002\3do-fix\DllExaminer\bin\Debug\net8.0\DllExaminer.pdb
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\DllExaminer.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\DllExaminer.AssemblyInfoInputs.cache
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\DllExaminer.AssemblyInfo.cs
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\DllExaminer.csproj.CoreCompileInputs.cache
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\DllExaminer.dll
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\refint\DllExaminer.dll
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\DllExaminer.pdb
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\DllExaminer.genruntimeconfig.cache
+C:\users\rob\source\002\3do-fix\DllExaminer\obj\Debug\net8.0\ref\DllExaminer.dll
